@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/r1j72m.jpeg" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/ypzyk2.jpeg" alt="Main Graphic" />
 </p>
 
 
@@ -18,7 +18,7 @@
 <br>
 
 2 .👇 Get Session Id here!.
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)]() 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://jbm.onrender.com) 
 
 
 
@@ -37,7 +37,7 @@
 <br>
 
 4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fpkdriller%2FQUEEN-M)  
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FJBM-X%2Fjacob-xmd)  
 
 <br>
 
@@ -46,12 +46,12 @@
 WELCOME TO JACOB-XMD A SIMPLE WHATSAPP BOT   
 
 👇 Follow My WhatsApp Channel 🤝 
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x)  
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VatokI45EjxufALmY32X)  
 
 <br>
 
 👇 Contact Me on WhatsApp  🤝
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254785392165)  
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254736512615)  
 
 <br>
 
