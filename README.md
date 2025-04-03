@@ -62,5 +62,9 @@ WELCOME TO JACOB-XMD A SIMPLE WHATSAPP BOT
 
 👇 Follow My GitHub 🤝
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/JBM-X)  
+<p align="center">
+  <img src="https://files.catbox.moe/008dtq.jpeg" alt="Main Graphic" />
+</p>
+
 
 
